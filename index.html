@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="home">
+	
+	 <!-- Content -->
+		<div><img src="img/CAMM_1.png" alt="lab-home">
+			<h2>Center for Advanced Multiphoton Microscopy</h2>
+			<p>The Center for Advanced Multiphoton Microscopy (CAMM) was established in 2016 to give the UCSF community access to cutting-edge multiphoton instruments for high-speed live imaging. CAMM is a partnership between <a href="http://www.ucsf.edu/">UCSF</a> and  <a href="https://www.intelligent-imaging.com/">3i (Intelligent Imaging Innovations)</a>, which specializes in advanced multi-dimensional microscopy platforms for live imaging. The center’s first microscope is a VIVOTM 2-Photon system with the option of either dual galvanometer or resonant scanning.</p>
+		</div>
+	<!-- /Content-->
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
