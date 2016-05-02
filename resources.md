@@ -5,7 +5,7 @@ permalink: /resources/
 ---
 
 Microscope
-CAMM’s first microscope is a VIVOTM 2-Photon system designed for high-speed multiphoton imaging of live animals and tissue. 
+CAMM’s first microscope is a VIVO 2-Photon system designed for high-speed multiphoton imaging of live animals and tissue. 
 
 **Features:**
  
@@ -30,7 +30,7 @@ CAMM’s first microscope is a VIVOTM 2-Photon system designed for high-speed mu
 
 **Offline Workstation**
 
-Users have access to a powerful imaging analysis workstation equipped with SlideBookTM.
+Users have access to a powerful imaging analysis workstation equipped with SlideBook.
 
 
 ![VIVO 2P system](../img/CAMM_4.png)

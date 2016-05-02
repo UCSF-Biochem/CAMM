@@ -41,11 +41,25 @@ ul, ol, dl, figure,
  * Images
  */
 img {
-    max-width: 100%;
+	max-width: 100%;
     vertical-align: middle;
 }
 
+#leftplacement{
+    float:left;
+    padding:5px;
+    
+}
 
+#rightplacement{
+    float:left;
+    padding:5px;
+}
+
+div > img{
+   height:325px;
+    width:325px;
+}
 
 /**
  * Figures
@@ -154,8 +168,8 @@ pre {
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(800px - (#{$spacing-unit} * 2));
-    max-width:         calc(800px - (#{$spacing-unit} * 2));
+    max-width: -webkit-calc(800px - (#{$spacing-unit} * 4));
+    max-width:         calc(800px - (#{$spacing-unit} * 4));
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit;
