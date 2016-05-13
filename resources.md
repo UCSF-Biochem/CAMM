@@ -25,7 +25,7 @@ CAMM’s first microscope is a VIVO 2-Photon system designed for high-speed mult
 
  * Luigs & Neumann XY stage with interchangeable bridges for slice and in vivo preparations. Slice bridge includes heated chamber.
 
- * SlideBookTM software for VIVOTM 2P enables seamless acquisition and powerful analysis with complete hardware control and full integration of optogenetics and electrophysiology metadata.
+ * SlideBookTM software for VIVO 2P enables seamless acquisition and powerful analysis with complete hardware control and full integration of optogenetics and electrophysiology metadata.
 
 
 **Offline Workstation**

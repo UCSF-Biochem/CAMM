@@ -6,7 +6,7 @@ permalink: /contact/
 
 ### Center Founder and Director
 
-**Grae Davis, PhD**  
+**Graeme Davis, PhD**  
 1550 4th Street, Bldg 19B Room 448E  
 San Francisco, CA 94158  
 **Phone**  
