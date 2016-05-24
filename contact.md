@@ -14,10 +14,8 @@ San Francisco, CA 94158
 
 
 
-####For general questions or to schedule training please contact Alden Conner.
+#### For general questions or to schedule training please contact Alden Conner.
 
-alden@intelligent-imaging.com
-
-phone TBD
+<alden@intelligent-imaging.com>
 
 Schedule a training today! <http://goo.gl/forms/rQKQRN8vFw>
