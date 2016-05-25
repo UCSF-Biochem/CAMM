@@ -18,4 +18,9 @@ San Francisco, CA 94158
 
 <alden@intelligent-imaging.com>
 
-Schedule a training today! <http://goo.gl/forms/rQKQRN8vFw>
+* <a href="http://goo.gl/forms/rQKQRN8vFw">Schedule a trainning today!</a>
+
+* <a href="http://goo.gl/forms/opIkn1QNlwLePEZz2">Sign up for the CAMM listserv.</a>
+
+
+
