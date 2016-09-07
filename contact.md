@@ -4,15 +4,15 @@ title: Contact
 permalink: /contact/
 ---
 
-* <a href="http://goo.gl/forms/rQKQRN8vFw">Schedule a training today!</a>
-
-* <a href="http://goo.gl/forms/opIkn1QNlwLePEZz2">Sign up for the CAMM listserv</a>		
-
-
 #### For questions please contact Alden Conner: <alden@intelligent-imaging.com>
 
-----
+* <a href="http://goo.gl/forms/rQKQRN8vFw">Schedule a training today!</a>
 
+* <a href="https://listsrv.ucsf.edu/cgi-bin/wa?SUBED1=CAMM_USERS&A=1">Subscribe to the CAMM listserv</a>		
+
+<br>
+
+----
 <br>
 
 ### Founder
