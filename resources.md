@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: page
 title: Resources
 permalink: /resources/
 ---
 
-## Microscope
 CAMM’s first microscope is a VIVO Multiphoton system designed for high-speed imaging of live animals and tissues.
 
 **Features:**
