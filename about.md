@@ -6,9 +6,11 @@ permalink: /about/
 
 **About CAMM**
 
-The Center for Advanced Multiphoton Microscopy was established in 2016 as a partnership between UCSF and 3i, funded in part by generous contributions from the Weston Havens Foundation. CAMM will provide the UCSF research community with access to cutting-edge multiphotoninstruments for high-speed, in vivo, live imaging. The center’s firstmicroscope is a VIVO Multi-Photon system with the option of either dual galvanometer or resonant scanning.
+The Center for Advanced Multiphoton Microscopy was established in 2016 as a partnership between UCSF and 3i, funded in part by generous contributions from the Weston Havens Foundation. CAMM provides the UCSF research community with access to cutting-edge multiphoton instruments for high-speed, in vivo, live imaging.
 
-The resonance scanning functionality of this system enables rapid 4D image acquisition with limited light scattering for imaging at depth in complex tissue. Full-field acquisition rates are up to 30 frames per second with faster frame rates achievable for smaller fields of view. The dual galvanometer scan head enables flexibility in scanning mode for image acquisition and photo-stimulation. The system is capable of FRAP and photo-uncaging. The system is equipped with a state of the art Luigs-Neumann stage with interchangeable bridges for use with diverse preparations that rage from tissue slices to whole organisms.  The stage also includes temperature control. The system is controlled by user-friendly Slidebook software. The core facility includes access to an offline data analysis workstation equipped with the Slidebook software.
+CAMM includes two systems designed to handle a wide variety of specimens and experimental setups. The original system, based on an upright microscope, can perform either dual galvo or resonant scanning for rapid 4D image acquisition in live specimens. The system is equipped with a state of the art Luigs & Neumann temperature-controlled stage with interchangeable bridges for use with diverse preparations ranging from tissue slices to whole organisms.  
+
+The new microscope, installed May 2107, is based on an open-architecture Movable Objective Microscope, which leaves space under the objective for a custom platform or behavioral apparatus. The system also includes 2P Phasor, 3i's state-of-the-art computer-generated holography system. This technology is capable of simultaneous stimulation of multiple arbitrary regions in 3D and is ideal for optogenetics.
 
 **About 3i**
 
