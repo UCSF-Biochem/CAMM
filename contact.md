@@ -11,8 +11,8 @@ San Francisco, CA 94158
 (415) 418-3662
 
 **Director   
-Alden Conner, PhD**     
-    <alden@intelligent-imaging.com>
+DeLaine Larsen, PhD**     
+    <DeLaine.Larsen@ucsf.edu>
 
 <br>
 
